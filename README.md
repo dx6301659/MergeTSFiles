@@ -19,4 +19,7 @@ Add a new path 'D:\DevelopTools\ffmpeg\bin'.
 
 
 Notice: Refer to: ```https://blog.csdn.net/fly_view/article/details/129793212```
+
+```python
 pip install ffmpy3
+```
